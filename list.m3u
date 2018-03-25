@@ -27,7 +27,7 @@ http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-o66JhzIYX98/AAAAAAAAAAI/AAAAAAAAAAA/wsQRRzTAa3w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",Alcarria TV
-http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.programacion-tv.es/uploads/programs/2017/04/large/30003958.jpg" group-title="SPAIN",Andalucia Turismo
 http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
