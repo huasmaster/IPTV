@@ -46,7 +46,7 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="SPAIN",Aragon TV*
-http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
+http://195.55.74.211/aragontv/live-hls/chunklist_b664000.m3u8?GKID=ce153a20302a11e8892600163e914f69
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="SPAIN",Atreseries [Opt-1]
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
