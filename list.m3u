@@ -1031,6 +1031,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICR0008&mode=12
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/do.png" group-title="LABEL",~ Dominican Republic TV ~
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.wikia.com/wiki/CDN_37?file=CDN37-2017.png" group-title="DOMINICAN REP",CDN CANAL 37 [Geo]
+http://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1524883222~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=9946060b3c9cd2460d962ecba920684007d536f1c7a4344de76dddf7ed698590
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png" group-title="DOMINICAN REP",Antena 7 [Geo]
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b948304.m3u8
