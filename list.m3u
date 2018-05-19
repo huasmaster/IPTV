@@ -1087,7 +1087,7 @@ http://ss1.domint.net:2302/tu_str/universo/media_w1023448568_8550.m3u8
 http://hd.streamingmedios.com:1935/HilandoFinoTV/smil:GlobalMarket.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="DOMINICAN REP",Supertv 55 santiago
-http://ss9.domint.net:2022/stv_str/tv55/master.m3u8
+http://ss8.domint.net:2128/stv_str/tv55/media_w1967194560_3527.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
@@ -1112,7 +1112,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/600x315/6c/f7/aa/6cf7aa90d1d7186a7b9a5467267a9630.jpg" group-title="DOMINICAN REP",Teleuniverso
-http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+http://ss1.domint.net:2302/tu_str/universo/media_w1023448568_8550.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/820501347/TRAdigital-2010_400x400.png" group-title="DOMINICAN REP",TRA Digital
 http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
