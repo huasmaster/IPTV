@@ -1081,7 +1081,7 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/master.m3u8
 http://stream3.prostudionetwork.com:1943/megavision/MV/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="DOMINICAN REP",Telemedios Dominicanos Canal 25
-http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+http://ss1.domint.net:2302/tu_str/universo/media_w1023448568_8550.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="DOMINICAN REP",Hilando Fino TV
 http://hd.streamingmedios.com:1935/HilandoFinoTV/smil:GlobalMarket.smil/master.m3u8
