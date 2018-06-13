@@ -1063,7 +1063,7 @@ http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
 http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/07/rnn-27.jpg" group-title="DOMINICAN REP",RNN Canal 27
-http://ss6.domint.net:2042/rnn_str/canal27/chunklist_w1261449614.m3u8
+http://ss1.domint.net:2122/rnn_str/canal27/media_w1966583160_12078.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.laromanabayahibenews.com/wp-content/uploads/2012/09/Romana-TV-canal-42-CLARO-TV-Wind-Telecom-Tricom-internet-republica-dominicana.jpg" group-title="DOMINICAN REP",Romana TV 42
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0034&mode=12
