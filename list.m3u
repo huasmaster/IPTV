@@ -3161,7 +3161,7 @@ http://ss6.domint.net:2042/rnn_str/canal27/chunklist_w1261449614.m3u8
 #EXTINF:0,Romana TV 42
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0034&mode=12
 #EXTINF:0,Teleantillas Canal 2
-http://69.64.69.92:1935/hita-tv-ch02app/studio/chunklist.m3u8
+https://ss1.domint.net:3126/ta2_str/teleantillas/playlist.m3u8
 #EXTINF:0,Telefuturo
 http://ss8.domint.net:2118/tf_str/futu/chunklist.m3u8
 #EXTINF:0,Teleunion
