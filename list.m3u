@@ -368,7 +368,7 @@ http://ss9.domint.net:1988/btv_str/bonao/chunklist_w176943289.m3u8
 #EXTINF:0,Canal 4 
 http://45.35.46.43:1935/live/canal4/master.m3u8
 #EXTINF:0,CDN Canal 37
-https://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/master.m3u8?hdnea=st=1561084152~exp=1561084272~acl=/i/dclive_1@167228*~hmac=e59ee981b43ec0bbd5b3838064c5d7c59a53b81dffddb7e7cc7d21aa3c69ece6
 #EXTINF:0,CDN SportsMax
 http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
 #EXTINF:0,Color Vision Canal 9
