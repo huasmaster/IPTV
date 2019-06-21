@@ -396,7 +396,7 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/master.m3u8
 #EXTINF:0,Telemedios Dominicanos Canal 25
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 #EXTINF:0,Hilando Fino TV
-http://hd.streamingmedios.com:1935/HilandoFinoTV/smil:GlobalMarket.smil/master.m3u8
+https://hd.streamingmedios.com/HilandoFinoTV/myStream/playlist.m3u8
 #EXTINF:0,Supertv 55 santiago
 http://ss9.domint.net:2022/stv_str/tv55/master.m3u8
 #EXTINF:0,Telemicro Canal 5
