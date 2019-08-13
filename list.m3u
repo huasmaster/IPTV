@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,Telemicro 5 
+https://player-api.new.livestream.com/accounts/27456795/events/8564964/broadcasts/194956775.secure.m3u8?dw=80&hdnea=st=1565666734~exp=1565668534~acl=/i/27456795_8564964_lsio4p0vi4kwt46qsyb_1@447048/*~hmac=cd1725bc49c747eac49bf6a5df9fad5faed986652cb937c9feb4f98e853b71b1&token=5d522eda_db82c071e7ec5d904b10c81310edc8b289405eb4
 #EXTINF:0,3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 #EXTINF:0,7 Murcia
