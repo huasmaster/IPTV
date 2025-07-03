@@ -1,101 +1,39 @@
 #EXTM3U
 
-########## ✅ Enlaces personales válidos (de tu lista) ##########
-
-#EXTINF:-1 tvg-id="" group-title="Latinoamérica",TVLive 1
+# ▶️ Tus 2 links personales
+#EXTINF:-1,TVLive 1
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Argentina",Canal Provincial – Trimi
+#EXTINF:-1,Canal Provincial - Trimi
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
-########## 🇩🇴 República Dominicana ##########
+# 📺 Latinoamérica (≈2200 canales)
+#EXTINF:-1,Latinoamérica - IPTV‑ORG
+https://iptv-org.github.io/iptv/regions/latam.m3u
 
-#EXTINF:-1 tvg-id="" group-title="República Dominicana",CDN 37
-https://cdn1.cdnlayer.biz/live/cdn37live.m3u8
-#EXTINF:-1 tvg-id="" group-title="República Dominicana",RTVD Canal 4
-https://ss2.domint.net:3048/rtvd_str/rtvd.m3u8
-#EXTINF:-1 tvg-id="" group-title="República Dominicana",Teleantillas
-https://ss2.domint.net:3164/teleantillas_str/teleantillas.m3u8
+# 🌐 Estados Unidos (North America)
+#EXTINF:-1,USA - IPTV‑ORG
+https://iptv-org.github.io/iptv/regions/nam.m3u
 
-########## 🇲🇽 México ##########
+# 🗣️ Español
+#EXTINF:-1,Español (idioma) - IPTV‑ORG
+https://iptv-org.github.io/iptv/languages/spa.m3u
 
-#EXTINF:-1 tvg-id="" group-title="México",Canal Once
-https://canaloncetv.b-cdn.net/out/v1/6e3cd9989b9f4a0db6463a28a4a19c83/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="México",ADN 40
-https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="México",Canal 22
-https://canal22mx-lh.akamaihd.net/i/senal22_1@183619/index_2500_av-p.m3u8
+# 🗣️ Inglés
+#EXTINF:-1,Inglés (idioma) - IPTV‑ORG
+https://iptv-org.github.io/iptv/languages/eng.m3u
 
-########## 🇦🇷 Argentina ##########
+# 🎬 Películas
+#EXTINF:-1,Películas - IPTV‑ORG
+https://iptv-org.github.io/iptv/categories/movies.m3u
 
-#EXTINF:-1 tvg-id="" group-title="Argentina",CINE.AR
-https://live.adiptv.com.ar/cinear/cinear.stream/playlist.m3u8
+# ⚽ Deportes
+#EXTINF:-1,Deportes - IPTV‑ORG
+https://iptv-org.github.io/iptv/categories/sports.m3u
 
-########## 🇵🇷 Puerto Rico ##########
+# 👧 Infantil
+#EXTINF:-1,Infantiles - IPTV‑ORG
+https://iptv-org.github.io/iptv/categories/kids.m3u
 
-#EXTINF:-1 tvg-id="" group-title="Puerto Rico",WAPA América
-https://stream-ue1.rtpnetwork.com/hls/wapa.m3u8
-#EXTINF:-1 tvg-id="" group-title="Puerto Rico",TeleOnce (test)
-https://livestreamcdn.net:444/teleonce/teleonce/playlist.m3u8
-
-########## 🇪🇸 España ##########
-
-#EXTINF:-1 tvg-id="" group-title="España",RTVE 24h
-https://rtvelivestream.akamaized.net/24h/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="España",ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-
-########## 🌎 Noticias Internacionales (Español) ##########
-
-#EXTINF:-1 tvg-id="" group-title="Noticias",France 24 Español
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" group-title="Noticias",DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123456/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" group-title="Noticias",TeleSUR
-https://cdnesmain.telesur.ultrabase.net/mblivev3/telesurHD/playlist.m3u8
-
-########## 🇺🇸 Estados Unidos (Español e Inglés) ##########
-
-#EXTINF:-1 tvg-id="" group-title="USA",Univisión USA
-https://bcovlive-a.akamaihd.net/8797fcd38d454b239cd3d7b67b31f68f/us-east-1/6052478225001/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/master_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="USA",ABC News
-https://abcnews.go.com/abcnews/live
-#EXTINF:-1 tvg-id="" group-title="USA",NASA TV (EN)
-https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-########## 👧 Infantiles ##########
-
-#EXTINF:-1 tvg-id="" group-title="Infantiles",Cartoon Network LA
-https://play.cdnja.co/CartoonNetwork/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Infantiles",Discovery Kids
-https://linear-30.frequency.stream/dist/localnow/30/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Infantiles",Tooncast
-https://stmv1.voxtvhd.com.br/tooncast/tooncast/playlist.m3u8
-
-########## ⚽ Deportes ##########
-
-#EXTINF:-1 tvg-id="" group-title="Deportes",TyC Sports
-https://edge2.clgrtv.com.ar/live/tycsports/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Deportes",ESPN Extra (test)
-https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Deportes",Claro Sports
-https://d3vsn4x7y499jg.cloudfront.net/claro_channel_1/smil:channel1.smil/chunklist_b859200_sleng.m3u8
-
-########## 🎶 Música ##########
-
-#EXTINF:-1 tvg-id="" group-title="Música",HTV Música
-https://htv-live-hls.secure.footprint.net/htv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Música",Telehit
-https://linear-15.frequency.stream/dist/localnow/15/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Música",Quiero Música (AR)
-https://streamingquiero.arnet.com.ar/live/quieromusica/playlist.m3u8
-
-########## 🎬 Más Películas (Español) ##########
-
-#EXTINF:-1 tvg-id="" group-title="Películas",Cine Latino
-https://stream-cinelatino.test/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Películas",Golden Edge
-https://iptv-edge.goldenchannels.net/goldenedge/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Películas",Retro Movies Latino
-https://free-retro-movies-latino.test/live/playlist.m3u8
+# 📰 Noticias
+#EXTINF:-1,Noticias - IPTV‑ORG
+https://iptv-org.github.io/iptv/categories/news.m3u
