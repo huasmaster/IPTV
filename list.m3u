@@ -1,47 +1,35 @@
 #EXTM3U
 
-# ▶️ Tus enlaces personales
+# ▶️ Tus canales personales
 #EXTINF:-1,TVLive 1
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,Canal Provincial - Trimi
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
-# ▶️ Latinoamérica (≈ 1529 canales)
+# ▶️ Latinoamérica (≈1500 canales)
 #EXTINF:-1,Latinoamérica - IPTV‑ORG
 https://iptv-org.github.io/iptv/regions/latam.m3u
 
-# ▶️ Estados Unidos (en español e inglés) (≈ 2514 canales)
-#EXTINF:-1,USA - IPTV‑ORG
-https://iptv-org.github.io/iptv/regions/noram.m3u
-
-# ▶️ Español (idioma) (≈ 1698 canales)
+# ▶️ Español (idioma) (≈1700 canales)
 #EXTINF:-1,Español – IPTV‑ORG
 https://iptv-org.github.io/iptv/languages/spa.m3u
 
-# ▶️ Inglés (idioma) (≈ 2297 canales)
-#EXTINF:-1,Inglés – IPTV‑ORG
-https://iptv-org.github.io/iptv/languages/eng.m3u
-
-# ▶️ Películas (≈ 316 canales)
+# ▶️ Películas (≈300)
 #EXTINF:-1,Películas – IPTV‑ORG
 https://iptv-org.github.io/iptv/categories/movies.m3u
 
-# ▶️ Deportes (≈ 289 canales)
+# ▶️ Deportes (≈280)
 #EXTINF:-1,Deportes – IPTV‑ORG
 https://iptv-org.github.io/iptv/categories/sports.m3u
 
-# ▶️ Infantil (≈ 257 canales)
+# ▶️ Infantil (≈250)
 #EXTINF:-1,Infantiles – IPTV‑ORG
 https://iptv-org.github.io/iptv/categories/kids.m3u
 
-# ▶️ Noticias (≈ 771 canales)
+# ▶️ Noticias (≈770)
 #EXTINF:-1,Noticias – IPTV‑ORG
 https://iptv-org.github.io/iptv/categories/news.m3u
 
-# ▶️ Música (≈ 619 canales)
+# ▶️ Música (≈600)
 #EXTINF:-1,Música – IPTV‑ORG
 https://iptv-org.github.io/iptv/categories/music.m3u
-
-# ▶️ General (variados, ≈ 2286 canales)
-#EXTINF:-1,General – IPTV‑ORG
-https://iptv-org.github.io/iptv/categories/general.m3u
